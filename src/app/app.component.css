@@ -1,0 +1,55 @@
+#iface{
+	background-color: #ebf2f2;
+	width: 100%;
+}
+
+input#message{
+	background-color: #384445;
+	border: none; 
+	outline: none;
+	box-shadow: none;
+	font-size: 1.6em;
+	font-weight: 300;
+	margin-bottom: 1em;
+	padding: 1.2em .7em;
+	color: #94888c;
+	width: 80%;
+	float: left;
+}
+
+input.submit{
+	background: #00abb6;
+	color: #ffffff;
+	float: right;
+	width: 20%;
+	border: 0;
+	padding: 1.02em .7em;
+	font-size: 1.2em;
+	cursor: pointer;
+}
+
+.details-container{
+	width: 100%;
+	background-color: white;
+	padding: 1.4em;
+	margin-bottom: 5px;
+	display: block;
+	clear: both;
+	border-left: 6px solid #00abb6;
+}
+
+.details-container p{
+	margin-bottom: 0;
+
+}
+
+button{
+	background: #d4e0e1;
+	color: #465057;
+	padding: 10px;
+	width: auto;
+	margin: 0;
+	font-size: .8em;
+	float: right;
+	margin-left: 20px;
+}
